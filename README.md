@@ -1,20 +1,64 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌐 Deb Barman — Professional Portfolio Website
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio website.  
+This project represents my journey, skills, and hands-on experience in **software development, web technologies, and modern frontend engineering**.
 
-This contains everything you need to run your app locally.
+The website is designed to be **clean, fast, responsive, and professional**, with a focus on real-world projects, technical skills, and continuous learning.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1v1nl6lfUtpV6Tu3HrkF4-YaOYfqsY7Z-
+---
 
-## Run Locally
+## 🔗 Live Portfolio
 
-**Prerequisites:**  Node.js
+🚀 **Website:**  
+https://<your-username>.github.io/<repository-name>/
 
+_(Hosted using GitHub Pages & GitHub Actions CI/CD)_
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🧑‍💻 About Me
+
+I am **Deb Barman**, a student and aspiring software developer with a strong interest in:
+
+- Web Development  
+- Programming & Problem Solving  
+- Modern JavaScript Frameworks  
+- AI-powered Applications  
+- Continuous Skill Improvement  
+
+I believe in **learning by building**, and this portfolio is a reflection of that mindset.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Frontend
+- ⚛️ **React (TypeScript)**
+- ⚡ **Vite** (Fast build tool)
+- 🎨 **Tailwind CSS**
+- 🧩 Component-based architecture
+
+### AI & Services
+- 🤖 **Google Gemini API**
+- Modular service-layer design
+
+### Deployment & DevOps
+- 🚀 **GitHub Pages**
+- 🔁 **GitHub Actions (CI/CD)**
+- 🔐 Environment-based API key handling
+
+---
+
+## ✨ Key Features
+
+- Fully responsive design (mobile-first)
+- Modern UI with smooth animations
+- Modular & scalable component structure
+- AI-powered Chat Widget (Gemini)
+- Optimized production build
+- Clean and maintainable codebase
+- Open-source & developer-friendly
+
+---
+
+## 📂 Project Structure
