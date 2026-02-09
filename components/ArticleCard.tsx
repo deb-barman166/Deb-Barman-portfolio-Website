@@ -156,4 +156,4 @@ export const ArticleCard: React.FC<Props> = ({ article, isActive, onClick }) => 
       </div>
     </div>
   );
- };
+  };
